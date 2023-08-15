@@ -7,7 +7,7 @@ description: |
   Step into my portfolio's page showcasing an array of eye-catching promotional flyers, each design meticulously tailored to make your messages pop and leave a lasting impact.
 tags:
   - Design
-  - Dev
-  - User Testing
+  - Ad
+  
 ---
 
